@@ -1,0 +1,59 @@
+#line{
+    margin-top: 8%;
+    margin-bottom: 3%;
+    
+    border-style: solid;
+    border-color: rgba(124, 199, 174, 0.23);
+    border-radius: 3px;
+
+    width: 38%;
+    
+    height: 60%;
+    padding: 5%;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+p{
+    padding-bottom: 10%;
+    text-align: center;
+    font-size: 25px;
+}
+
+b{
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+#b1,#b2{
+    color: red;
+}
+
+.form-control{
+    font-size: 20px;
+    margin:0 auto;
+    width: 90%;
+    margin-bottom: 2%;
+}
+
+.new{
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.itiran{
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 30px;
+}
+
+.btn{
+    float: right;
+    margin-right: 6px;
+}

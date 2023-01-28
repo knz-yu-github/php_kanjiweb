@@ -1,0 +1,26 @@
+
+body{
+    font-size: 20px;
+}
+
+.tope{
+    font-size: 25px;
+    margin-top: 150px;
+}
+
+table, td, th{
+    border: 1px solid slategrey;
+}
+
+th{
+    font-size: 30px;
+}
+
+.normalcell{
+    font-family:BIZ UDMincho;
+    font-size: 22px;
+}
+
+.bigcell{
+    font-size: 50px;
+}

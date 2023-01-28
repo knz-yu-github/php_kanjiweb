@@ -1,0 +1,74 @@
+h1{
+    margin-top: 10px;
+}
+
+h2{
+    font-size: 20px;
+}
+
+p{
+    font-size: 16px;
+}
+
+
+.form-control{
+    margin-top: -10px;
+    font-size: 20px;
+}
+
+.formcontrol{
+    margin-top: 20px;
+    height: 25px;
+    width: 25px;
+}
+
+#line{
+    margin-top: 150px;
+    
+    border-style: solid;
+    border-color: rgba(124, 199, 174, 0.23);
+    border-radius: 3px;
+
+    width: 38%;
+    height: 60%;
+    padding: 5%;
+}
+
+.itiran{
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.btn{
+    float: right;
+}
+
+
+b{
+    display: inline-block;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+#b1,#b2{
+    margin-left: 5%;
+    margin-top: 20px;
+    color: red;
+}
+
+#b3{
+    display:inline;
+
+    margin-top: 20px;
+    border-bottom:2px solid yellowgreen;
+    color: green;
+
+    padding-bottom:2px;
+    line-height:2;
+}
+
+#b4{
+    margin-top: -40px;
+    color: red;
+}

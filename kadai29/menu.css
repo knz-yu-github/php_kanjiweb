@@ -1,0 +1,40 @@
+
+#btn{
+    margin: -42px 15px 10px 0;
+    float: right;
+}
+
+.photo{
+    background-image:url(kanji-web.png); /* 画像のURLを指定       */
+    background-size:100px;                 /* 画像のサイズを指定    */
+    width:100%;
+    height: 100%;                     
+}
+
+.menu{
+    position: fixed; /* 要素の位置を固定する */
+    top: 0; /* 基準の位置を画面の一番上に指定する */
+    z-index: 100; /*最上位レイヤー*/
+
+    background-color: skyblue;
+    height: 100px;
+    width: 100%;
+
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+}
+
+
+
+
+
+/*ログアウト画面の装飾*/
+.logoutcall{
+    font-size: 25px;
+    margin-top: 150px;
+}
+
+.logoutcalltwo{
+    font-size: 20px;
+}
